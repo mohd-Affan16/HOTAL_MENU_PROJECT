@@ -33,7 +33,7 @@ This is a simple **Hotel Menu Billing System** written in Python using **Object-
    python hotel_menu.py
 ## Example
 ========================================
-               Menu
+                Menu
 ========================================
 ID  Name                          Price
 ________________________________________
@@ -44,16 +44,15 @@ ________________________________________
 5   Chicken Tikka Masala          ₹150
 ________________________________________
 
-What do you want to eat??
+What do you want to eat?
 > biryani
 What quantity do you want to order?
 > 2
 ✅ Item added: Biryani x2
 
 Do you want to add another item? (yes/no): yes
-
 ========================================
-               Menu
+                Menu
 ========================================
 ID  Name                          Price
 ________________________________________
@@ -64,22 +63,29 @@ ________________________________________
 5   Chicken Tikka Masala          ₹150
 ________________________________________
 
-What do you want to eat??
+What do you want to eat?
 > masala dosa
 What quantity do you want to order?
 > 1
 ✅ Item added: Masala Dosa x1
 
 Do you want to add another item? (yes/no): no
+========================================
+                Menu
+========================================
+ID  Name                          Price
+________________________________________
+1   Biryani                       ₹150
+2   Paneer Butter Masala          ₹180
+3   Masala Dosa                   ₹80
+4   Chole Bhature                 ₹100
+5   Chicken Tikka Masala          ₹150
+________________________________________
 
-==================================================
-               The Azure Haven Hotel
-Date: 29-06-2025 at 06:45 PM
-==================================================
-Name                       Qty     Price     Amount
---------------------------------------------------
-Biryani                    2       ₹150      ₹300
-Masala Dosa                1       ₹80       ₹80
---------------------------------------------------
-Total Amount                             ₹380
---------------------------------------------------
+What do you want to eat?
+> masala dosa
+What quantity do you want to order?
+> 1
+✅ Item added: Masala Dosa x1
+
+Do you want to add another item? (yes/no): no
